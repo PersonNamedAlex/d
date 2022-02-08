@@ -522,7 +522,7 @@ this.options = {
   asteroids_strength: 10,
   crystal_value: 4,
   crystal_drop: 10,
-  map_name: "X-69's Dueling Server Thingy. Ok basically we use c to chat. Hmmm Attack is basically a duel request. If you say like Yes or Attack back then that usually means you accept the request. Press B to use the menu. Click the buttons on yours screen to access the option buttons. You can change ships, or access different maps. Spawn is the empty map by default. Don't interfere with duels. You can spectate by going into the options and pressing spectate.
+  map_name: "X-69's Dueling Server",
   friendly_colors: 0,
   weapons_store: true,
   max_level: 8,
