@@ -637,7 +637,7 @@ let welcomeText = function (ship, text) {
     visible: true,
     position: [35,85,30,10],
     components: [
-      {type: "text", position: [0,0,100,100], value: text || "Duel and chill, no toxic behaviours please.", color: "#cde"}
+      {type: "text", position: [0,0,100,100], value: text || "Don't interfere with duels. Duels sponsored by X-69", color: "#cde"}
     ]
   });
   if (text) ship.custom.welcomeTextID = setTimeout(welcomeText, 2000, ship);
